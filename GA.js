@@ -1,5 +1,5 @@
 
-/** 任务集合(tasks[i]表示第i个任务的长度) */
+/***任务集合(tasks[i]表示第i个任务的长度)!*/
 var tasks = [];
 // 任务数量
 var taskNum = 100;
@@ -437,4 +437,4 @@ function draw(resultData) {
 
     // 使用刚指定的配置项和数据显示图表。
     myChart.setOption(option);
-}
+} 
